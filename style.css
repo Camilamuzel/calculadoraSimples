@@ -3,3 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+input {
+    font-size: 32px;
+}
+button {
+    font-size: 32 px;
+    width: 50px;
+    height: 60px;
+}
+div {
+    font-size: 32px;
+    width: 300px;
+    height: 200px;
+    box-shadow: 6px 4px 10px blueviolet; 
+}
